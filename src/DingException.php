@@ -18,7 +18,10 @@
  * See the License for the specific language governing permissions and
  * limitations under the License.
  */
-namespace Ding7\Exception;
+namespace Ding\Exception;
+
+use Exception;
+
 /**
  * All Ding exceptions extend this one.
  *
@@ -28,5 +31,5 @@ namespace Ding7\Exception;
  * @license  http://marcelog.github.com/ Apache License 2.0
  * @link     http://marcelog.github.com/
  */
-class DingException extends \Exception {
+class DingException extends Exception {
 }
