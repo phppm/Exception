@@ -1,5 +1,5 @@
 {
-    "name": "Ding/Exception",
+    "name": "rustphp/exception",
     "type": "component",
     "description": "PHP Dependency Injection based on Spring(tm), with Aspect Oriented Programming, MVC",
     "keywords": [
